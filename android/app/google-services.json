@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132487790853",
+    "project_id": "midtermexam-ef1ee",
+    "storage_bucket": "midtermexam-ef1ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132487790853:android:eb310fd08fd6490751776c",
+        "android_client_info": {
+          "package_name": "com.example.midterm_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2DnAA1Zx9xHc5Z1de4097yCdGiCVG10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
